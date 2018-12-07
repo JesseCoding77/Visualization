@@ -1,0 +1,24 @@
+Assignment 2: by Akash Nanndi-17200206 and Jesse Wong-18203855
+
+The live version of the visualisation can be found on this link  https://akash321go.github.io/Channelling-Hans-using-D3/
+
+
+Features of the Hans Rosling Visualisation:
+
+Task1:
+
+1. A bubble plot visualization which represents the countries of the world
+2. Countries of the world described by GDP and Global Competitive Index mapped to x and y-axis position.
+3. The population of each country mapped to the bubble area. As the years slide through, the size of the bubble changes as per the country population figure.
+4. To start the visualization, press on the start button to animate the changes in country statistics throughout the years. To pause, press on the pause button.
+5. To view data for a particular country and a particular year, hover over the bubble representing the countries. It displays the name of the country, The GDP data, Global Competitiveness Index data,   Region and Population.
+6. Each Region is assigned to a particular color used to differentiate between the regions and the legend for the same is represented on the righthand side of the chart.
+7. Slider feature to change the values through years 2007-2017. Click and drag the slider to change years manually.
+
+
+Task2:
+
+1. To view the trace of a country over the years in static view, click on the pause button and then click on the particular country. To continue the animation, press on the start button.
+2. The second visualization shows a bar chart representation used to compare the 12 pillars of the Global Competitiveness Index.
+3. The values for the pillars are shown as a cumulative average throughout the years(2007-2017).
+4. Click on the drop-down and select the country for which you wish to view the data.
